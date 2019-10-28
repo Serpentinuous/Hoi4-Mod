@@ -1,0 +1,16 @@
+HBD = {
+	color = rgb { 170  154  151 }
+	color_ui = rgb { 170  154  151 }
+}
+NFL = {
+	color = rgb { 255  174  201 }
+	color_ui = rgb { 255  174  201 }
+}
+PPB = {
+	color = rgb { 34  177  76 }
+	color_ui = rgb { 34  177  76 }
+}
+QUE = {
+	color = rgb { 255  127  39 }
+	color_ui = rgb { 255  127  39 }
+}

@@ -1,0 +1,4 @@
+HBD	= "countries/Hudson Bay Directorate.txt"
+NFL = "countries/Newfoundland.txt"
+PPB = "countries/Providence of Pure Blood.txt"
+QUE	= "countries/Quebec.txt"
