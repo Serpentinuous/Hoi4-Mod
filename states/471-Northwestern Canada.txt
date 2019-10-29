@@ -1,0 +1,20 @@
+
+state={
+	id=471
+	name="STATE_471" # Northwestern Canada
+	manpower = 27681
+	
+	state_category = wasteland
+
+	history={
+		owner = ARS
+		buildings = {
+			infrastructure = 1			
+		}
+		add_core_of = ARS
+	}
+
+	provinces={
+		917 1411 3606 4678 7891 12508 12571 5403
+	}
+}
