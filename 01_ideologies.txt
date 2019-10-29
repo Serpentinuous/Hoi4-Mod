@@ -22,7 +22,7 @@ ideologies = {
 			"FACTION_NAME_ANARCHO_5"
 		}
 		
-		color = { 255 0 0 }
+		color = { 235 235 0 }
 		
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -67,7 +67,7 @@ ideologies = {
 			"FACTION_NAME_INDUSTDEMO_5"
 		}
 		
-		color = { 300 0 0 }
+		color = { 30 50 170 }
 		
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -112,7 +112,7 @@ ideologies = {
 			"FACTION_NAME_PRONAT_5"
 		}
 		
-		color = { 355 0 0 }
+		color = { 130 250 80 }
 		
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -156,7 +156,7 @@ ideologies = {
 			"FACTION_NAME_TECHNO_6"
 		}
 		
-		color = { 0 0 255 }
+		color = { 130 130 130 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = yes
@@ -213,7 +213,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 		
-		color = { 0 0 300 }
+		color = { 50 80 200 }
 		
 		rules = {
 			can_declare_war_on_same_ideology = no
@@ -268,7 +268,7 @@ ideologies = {
 			"FACTION_NAME_AUTH_5"
 		}
 		
-		color = { 0 0 355 }
+		color = { 130 10 20 }
 		
 		war_impact_on_world_tension = 0.85		#Commie less threatening
 		faction_impact_on_world_tension = 0.85
@@ -313,7 +313,7 @@ ideologies = {
 			"FACTION_NAME_AUTH_5"
 		}
 		
-		color = { 255 0 255 }
+		color = { 100 10 20 }
 		
 		war_impact_on_world_tension = 0.95		#Commie less threatening
 		faction_impact_on_world_tension = 0.95
@@ -356,7 +356,7 @@ ideologies = {
 			"FACTION_NAME_AUTH_5"
 		}
 		
-		color = { 300 0 300 }
+		color = { 180 80 20 }
 		
 		war_impact_on_world_tension = 0.95		#Commie less threatening
 		faction_impact_on_world_tension = 0.95
@@ -396,7 +396,7 @@ ideologies = {
 			"FACTION_NAME_AUTH_5"
 		}
 		
-		color = { 355 0 355 }
+		color = { 40 5 40 }
 		
 		war_impact_on_world_tension = 1.10		#Commie less threatening
 		faction_impact_on_world_tension = 1.10
