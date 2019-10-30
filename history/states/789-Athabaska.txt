@@ -1,0 +1,26 @@
+
+state={
+	id=789
+	name="STATE_789"
+	manpower = 435572
+	
+	state_category = rural
+	
+	history={
+		owner = ATH
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 2
+		}
+		add_core_of = ATH
+		victory_points = {
+			853 3 
+		}
+
+	}
+
+	provinces={
+		853 1793 1972 3834 4796 5044 6897 7747 7920 10914
+	}
+}
