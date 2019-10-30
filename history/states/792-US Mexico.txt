@@ -1,0 +1,30 @@
+
+state={
+	id=792
+	name="STATE_792"
+	manpower = 500000
+	
+	state_category = town
+
+	resources={
+		oil=4
+	}
+	
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		add_core_of = USA MEX
+		victory_points = {
+			5015 5
+		}
+
+	}
+
+	provinces={
+		5015 5021 10769 13088
+	}
+	
+}
