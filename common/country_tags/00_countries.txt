@@ -9,4 +9,6 @@ VAS = "countries/Vancouver Soviets.txt"
 MNT = "countries/Montana.txt"
 SEA = "countries/Seattle.txt"
 TEX = "countries/Texas.txt"
+ATH = "countries/Athabaska.txt"
 FRE = "countries/Freedom Republic.txt"
+
