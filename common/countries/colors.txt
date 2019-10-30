@@ -34,3 +34,7 @@ MNT = {
 	color = rgb { 51 153 255 }
 	color_ui = rgb { 51 153 255 }
 }
+TEX = {
+	color = rgb { 60 59 110 }
+	color_ui = rgb { 60 59 110 }
+}
