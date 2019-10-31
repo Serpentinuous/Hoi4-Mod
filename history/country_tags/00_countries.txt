@@ -1,8 +1,0 @@
-HBD = "countries/Hudson Bay Directorate.txt"
-NFL = "countries/Newfoundland.txt"
-PPB = "countries/Providence of Pure Blood.txt"
-QUE = "countries/Quebec.txt"
-AMT = "countries/American Tsardom.txt"
-ARS = "countries/Artic Soviets.txt"
-ALD = "countries/Alberta Directorate.txt"
-VAS = "countries/Vancouver Soviets.txt"
