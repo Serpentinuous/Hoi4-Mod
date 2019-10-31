@@ -1,0 +1,423 @@
+ideologies = {
+	
+	anarcho-avanguarde = {
+		
+		types = {
+		
+			ubermensch_anarchism = {
+			}
+			
+			anarcho-barbarism = {
+			}
+			
+			anarcho-urbanism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_ANARCHO_1"
+			"FACTION_NAME_ANARCHO_2"
+			"FACTION_NAME_ANARCHO_3"
+			"FACTION_NAME_ANARCHO_4"
+			"FACTION_NAME_ANARCHO_5"
+		}
+		
+		color = { 235 235 0 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -0.3
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+	industrial_democracy = {
+		
+		types = {
+		
+			trade_unionism = {
+			}
+			
+			anarcho-syndicalist = {
+			}
+			
+			deleonism = {
+			} #It is DeLeon
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_INDUSTDEMO_1"
+			"FACTION_NAME_INDUSTDEMO_2"
+			"FACTION_NAME_INDUSTDEMO_3"
+			"FACTION_NAME_INDUSTDEMO_4"
+			"FACTION_NAME_INDUSTDEMO_5"
+		}
+		
+		color = { 30 50 170 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -0.3
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+	proleterian_nationalism = {
+		
+		types = {
+		
+			national_syndicalism = {
+			}
+			
+			anarcho-tolstoyanism = {
+			}
+			
+			revolutionary_caesarism = {
+			} 
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_PRONAT_1"
+			"FACTION_NAME_PRONAT_2"
+			"FACTION_NAME_PRONAT_3"
+			"FACTION_NAME_PRONAT_4"
+			"FACTION_NAME_PRONAT_5"
+		}
+		
+		color = { 130 250 80 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -0.3
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+	techno-oligarchy = {
+	
+		types = {
+			
+			fordism = {
+			}
+		
+			techno-junta = {
+			}
+		
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_TECHNO_1"
+			"FACTION_NAME_TECHNO_2"
+			"FACTION_NAME_TECHNO_3"
+			"FACTION_NAME_TECHNO_4"
+			"FACTION_NAME_TECHNO_5"
+			"FACTION_NAME_TECHNO_6"
+		}
+		
+		color = { 130 130 130 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = yes
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.30		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.2
+		
+		modifiers = {
+			generate_wargoal_tension = 0.50
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			take_states_cost_factor = 0.25
+			annex_cost_factor = 0.5
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_communist = yes # uses the communist AI behaviour
+	}
+
+	bourgeois_democracy = {
+	
+		types = {
+			
+			social_liberalism = {
+			}
+		
+			social_conservatism = {
+			}
+
+			social_democracy = {
+			}
+		
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+			"FACTION_NAME_DEMOCRATIC_2"
+			"FACTION_NAME_DEMOCRATIC_3"
+			"FACTION_NAME_DEMOCRATIC_4"
+			"FACTION_NAME_DEMOCRATIC_5"
+			"FACTION_NAME_DEMOCRATIC_6"
+		}
+		
+		color = { 50 80 200 }
+		
+		rules = {
+			can_declare_war_on_same_ideology = no
+			can_force_government = yes
+			can_send_volunteers = no
+			can_puppet = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = yes
+			can_guarantee_other_ideologies = yes
+		}
+		
+		can_host_government_in_exile = yes
+		
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 40s!
+		faction_impact_on_world_tension = 0.1
+		
+		modifiers = {
+			generate_wargoal_tension = 0.50
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			take_states_cost_factor = 0.25
+			annex_cost_factor = 0.5
+		}
+		
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
+	}
+
+	authoritarian_conservativism = {
+		
+		types = {
+		
+			military_junta = {
+			}
+			
+			monarchism = {
+			}
+			
+			constitutional_dictatorship = {
+			} 
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_AUTH_1"
+			"FACTION_NAME_AUTH_2"
+			"FACTION_NAME_AUTH_3"
+			"FACTION_NAME_AUTH_4"
+			"FACTION_NAME_AUTH_5"
+		}
+		
+		color = { 130 10 20 }
+		
+		war_impact_on_world_tension = 0.85		#Commie less threatening
+		faction_impact_on_world_tension = 0.85
+		
+		ai_fascist = yes # uses the fascist AI behaviour
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -0.3
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+	neo-feudalism = {
+		
+		types = {
+		
+			integralism = {
+			}
+			
+			absolute_monarchy = {
+			}
+			
+			agrarian_autocracy = {
+			} 
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_AUTH_1"
+			"FACTION_NAME_AUTH_2"
+			"FACTION_NAME_AUTH_3"
+			"FACTION_NAME_AUTH_4"
+			"FACTION_NAME_AUTH_5"
+		}
+		
+		color = { 100 10 20 }
+		
+		war_impact_on_world_tension = 0.95		#Commie less threatening
+		faction_impact_on_world_tension = 0.95
+		
+		ai_fascist = yes # uses the fascist AI behaviour
+		
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -1.0
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+	esoteric_traditionalism = {
+		
+		types = {
+		
+			solar_traditionalism = {
+			}
+			
+			lunar_traditionalism = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_AUTH_1"
+			"FACTION_NAME_AUTH_2"
+			"FACTION_NAME_AUTH_3"
+			"FACTION_NAME_AUTH_4"
+			"FACTION_NAME_AUTH_5"
+		}
+		
+		color = { 180 80 20 }
+		
+		war_impact_on_world_tension = 0.95		#Commie less threatening
+		faction_impact_on_world_tension = 0.95
+		
+		ai_fascist = yes # uses the fascist AI behaviour
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -1.0
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+	platonic_totalitarianism = {
+		
+		types = {
+		
+			platonic_totalitarianism = {
+			}
+				
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_AUTH_1"
+			"FACTION_NAME_AUTH_2"
+			"FACTION_NAME_AUTH_3"
+			"FACTION_NAME_AUTH_4"
+			"FACTION_NAME_AUTH_5"
+		}
+		
+		color = { 40 5 40 }
+		
+		war_impact_on_world_tension = 1.10		#Commie less threatening
+		faction_impact_on_world_tension = 1.10
+		
+		ai_fascist = yes # uses the fascist AI behaviour
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -1.0
+			justify_war_goal_when_in_major_war_time = -0.80
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+}
