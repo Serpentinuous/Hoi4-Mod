@@ -1,6 +1,4 @@
-capital = 463
-
-#Novo-Arkhangelsk
+capital = 482
 
 set_research_slots = 3
 set_stability = 0.8
@@ -23,12 +21,12 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = authoritarian_conservativism
+	ruling_party = industrial_democracy
 	last_election = "1920.10.14"
 	election_frequency = 60
 	elections_allowed = no
 }
 
 set_popularities = {
-	authoritarian_conservativism = 100
+	industrial_democracy = 100
 }

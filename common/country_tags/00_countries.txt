@@ -12,4 +12,6 @@ TEX = "countries/Texas.txt"
 ATH = "countries/Athabaska.txt"
 FRE = "countries/Freedom Republic.txt"
 USA = "countries/USA.txt"
+MEX = "countries/Mexico.txt"
+RME = "countries/Revolutionary Mexico.txt"
 

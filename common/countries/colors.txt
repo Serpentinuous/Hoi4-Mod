@@ -24,7 +24,7 @@ ARS = {
 }
 ALD = {
 	color = rgb { 181  91  68 }
-	coloe_ui = rgb { 181  91  68 }
+	color_ui = rgb { 181  91  68 }
 }
 VAS = {
 	color = rgb { 92  17  21 }
@@ -45,4 +45,16 @@ SEA = {
 USA = {
 	color = rgb { 45  82  132 }
 	color_ui = rgb { 45  82  132 }
+}
+ATH = {
+	color = rgb { 222  187  91 }
+	color_ui = rgb { 222  187  91 }
+}
+RME = {
+	color = rgb { 43 109 59 }
+	color_ui = rgb { 43 109 59 }
+}
+MEX = {
+	color = rgb { 104 152 83 }
+	color_ui = rgb { 135 198 108 }
 }
