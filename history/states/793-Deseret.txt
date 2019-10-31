@@ -1,6 +1,6 @@
 state= {
-	id=380
-	name="STATE_380"
+	id=793
+	name="STATE_793"
 	manpower = 507846
 	
 	state_category = rural
@@ -10,17 +10,14 @@ state= {
 	}
 
 	history={
-		owner = USA
+		owner = SAI
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 		}
-		add_core_of = USA
-		victory_points = {
-			4865 1 
-		}
+		add_core_of = SAI
 	}
 	provinces={
-		1663 1756 4668 4742 4865 10582 10651 10662 12573 13153
+		850 1740 7764 7821 7818 10573 12699 12765
 	}
 }
