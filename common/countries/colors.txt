@@ -39,8 +39,8 @@ TEX = {
 	color_ui = rgb { 60  59  110 }
 }
 SEA = {
-	color = rgb { 133  231  0 }
-	color_ui = rgb { 133  231  0 }
+	color = rgb { 83  101  31 }
+	color_ui = rgb { 83  101  31 }
 }
 USA = {
 	color = rgb { 45  82  132 }
