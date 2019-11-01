@@ -9,11 +9,11 @@ state={
 	}
 
 	history={
-		owner = MNT
+		owner = MTN
 		buildings = {
 			infrastructure = 4
 		}
-		add_core_of = MNT
+		add_core_of = MTN
 		victory_points = {
 			4860 1 
 		}
