@@ -30,7 +30,7 @@ VAS = {
 	color = rgb { 92  17  21 }
 	color_ui = rgb { 92  17  21 }
 }
-MNT = {
+MTN = {
 	color = rgb { 51  153  255 }
 	color_ui = rgb { 51  153  255 }
 }
