@@ -16,4 +16,6 @@ MEX = "countries/Mexico.txt"
 RME = "countries/Revolutionary Mexico.txt"
 SAI = "countries/New Republic of Saints.txt"
 YUC = "countries/Yucatán.txt"
-
+HAV - "countries/Havana.txt"
+MAR - "countries/Maracaibo.txt"
+REC - "countries/Recife.txt"
