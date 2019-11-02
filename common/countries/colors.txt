@@ -62,3 +62,7 @@ YUC = {
 	color = rgb {  204  153  0 }
 	color_ui = rgb {  204  153  0 }
 }
+MAR = {
+	color = rgb { 155  101  107 }
+	color_ui = rgb { 155  101  107 }
+}
