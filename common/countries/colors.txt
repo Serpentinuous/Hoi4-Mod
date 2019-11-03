@@ -43,8 +43,8 @@ SEA = {
 	color_ui = rgb { 179  66  69 }
 }
 USA = {
-	color = rgb { 29  127  169 }
-	color_ui = rgb { 29 127 169 }
+	color = rgb { 22  114  142 }
+	color_ui = rgb { 22 114 142 }
 }
 ATH = {
 	color = rgb { 165  141 23 }
@@ -67,8 +67,8 @@ MAR = {
 	color_ui = rgb { 155  101  107 }
 }
 FRE = {
-	color = rgb { 52  168  156 }
-	color_ui = rgb { 52  168  156 }
+	color = rgb { 48  145  119 }
+	color_ui = rgb { 48  145  119 }
 }
 SAI = {
 	color = rgb { 182  105  38 }
