@@ -107,7 +107,7 @@ PRU = {
 	color_ui = rgb { 175  58  28 }
 }
 COL = {
-        color = rgb { 175  58  28 }
-	color_ui = rgb { 175  58  28 }
+        color = rgb { 206  190  44  }
+	color_ui = rgb { 206  190  44 }
 }
        
