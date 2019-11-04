@@ -27,3 +27,4 @@ FRD = "countries/Fordlandia.txt"
 NPR = "countries/New Prussia.txt 
 PAN = "countries/Panama Directorate.txt"
 PRU = "countries/Peruvian Empire.txt"
+COL = "countries/Columbian State.txt"
