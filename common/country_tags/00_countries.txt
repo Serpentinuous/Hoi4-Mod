@@ -28,3 +28,4 @@ NPR = "countries/New Prussia.txt
 PAN = "countries/Panama Directorate.txt"
 PRU = "countries/Peruvian Empire.txt"
 COL = "countries/Columbian State.txt"
+RLF = "countries/Revolutionary Liberation Front.txt"
