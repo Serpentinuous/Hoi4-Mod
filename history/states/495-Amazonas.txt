@@ -1,0 +1,25 @@
+
+state={
+	id=495
+	name="STATE_495"
+	manpower = 979900
+	
+	state_category = pastoral
+	
+	resources={
+		aluminium=4 # was: 4
+	}
+
+	history={
+		owner = FRD
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = FRD
+	}
+
+	provinces={
+		1979 2035 4980 5008 5214 8172 10934 10956 
+	}
+}
