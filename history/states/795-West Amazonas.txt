@@ -1,0 +1,25 @@
+
+state={
+	id=795
+	name="STATE_795"
+	manpower = 979900
+	
+	state_category = pastoral
+	
+	resources={
+		aluminium=4 # was: 4
+	}
+
+	history={
+		owner = RLF
+		buildings = {
+			infrastructure = 0
+
+		}
+		add_core_of = RLF
+	}
+
+	provinces={
+		2198 5083 5216 5232 8185 8254 10960 12919 12965 13083 
+	}
+}
