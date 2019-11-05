@@ -83,8 +83,8 @@ CHL = {
 	color_ui = rgb {11  52  98 }
 }
 CSB = {
-        color = rgb { 115  26  91 }
-	color_ui = rgb { 115  26  91 }
+        color = rgb { 89  188  14 }
+	color_ui = rgb { 89  188  14 }
 }
 COM = {
         color = rgb { 193  188  110 }
