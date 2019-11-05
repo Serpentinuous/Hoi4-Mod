@@ -113,4 +113,8 @@ COL = {
 RLF = {
        color = rgb { 4  107  55 }
        color_ui = rgb { 4  107  55 }
+}
+HAV = {
+       color = rgb { 215 173 4 }
+       color_ui = rgb { 215 173 4 }
        
