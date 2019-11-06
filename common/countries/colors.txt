@@ -86,10 +86,6 @@ CSB = {
     color = rgb { 0  166  89 }
 	color_ui = rgb { 0  166  89 }
 }
-COM = {
-    color = rgb { 193  188  110 }
-	color_ui = rgb { 193  188  110 }
-}
 FRD = {
     color = rgb { 0 158  63 }
 	color_ui = rgb { 0 158  63 }
