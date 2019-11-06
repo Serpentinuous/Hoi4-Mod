@@ -1,0 +1,24 @@
+
+state={
+	id=796
+	name="STATE_796"
+	manpower = 3175163
+	
+	state_category = city
+
+	history={
+		owner = COC
+		
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 3
+		}
+		add_core_of = COC
+	}
+
+	provinces={
+		809 931 3930 6884 6948 6954 9819 11798 11851 
+	}
+}
