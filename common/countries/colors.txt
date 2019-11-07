@@ -83,8 +83,8 @@ CHL = {
 	color_ui = rgb { 11  52  98 }
 }
 CSB = {
-	color = rgb { 00  166  89 }
-	color_ui = rgb { 00  166  89 }
+	color = rgb { 182  255  254 }
+	color_ui = rgb { 182  255  254 }
 }
 FRD = {
 	color = rgb { 01 158 63 }
@@ -99,8 +99,8 @@ PAN = {
 	color_ui = rgb { 152 130 191 }
 }
 PRU = {
-	color = rgb { 112 64 22 }
-	color_ui = rgb { 112 64 22 }
+	color = rgb { 175 75 8 }
+	color_ui = rgb { 175 75 8 }
 }
 COL = {
 	color = rgb { 184 199 48 }
