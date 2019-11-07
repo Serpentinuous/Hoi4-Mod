@@ -63,8 +63,8 @@ YUC = {
 	color_ui = rgb { 179  233  52 }
 }
 MAR = {
-	color = rgb { 155  101  107 }
-	color_ui = rgb { 155  101  107 }
+	color = rgb { 169  52  110 }
+	color_ui = rgb { 169  52  110 }
 }
 FRE = {
 	color = rgb { 48  145  119 }
