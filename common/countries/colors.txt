@@ -114,3 +114,42 @@ HAV = {
 	color = rgb { 215 173 4 }
 	color_ui = rgb { 215 173 4 }
 }
+POR = {
+        color = rgb { 145 32 162 }
+        color_ui = rgb { 145 32 162 }
+}
+BSQ = {
+         color = rgb { 1 132 41 }
+	 color_ui = rgb {1 132 41}
+}
+BAL = {
+         color = rgb { 139 184 132 }
+	 color_ui = rgb { 139 184 132 }
+}
+EXT = {
+         color = rgb { 42 97 86 }
+	 color_ui = rgb { 42 97 86 }
+}
+CAT = {
+         color = rgb { 239 139 50 }
+	 color_ui = rgb { 239 139 50 }
+}
+FSP = {
+         color = rgb { 182 120 38 }
+	 color_ui = rgb { 182 120 38 }
+}
+FAI = {
+         color = rgb { 131 29 29 }
+	 color_ui = rgb { 131 29 29 }
+}
+NSP = {
+         color = rgb { 75 159 165 }
+	 color_ui = rgb { 75 159 165 }
+}
+COC = {
+         color = rgb { 246 242 208 }
+	 color_ui = rgb { 246 242 208 } 
+}
+HEW = {
+         color = rgb { 3  3  199}
+	 color_ui = rgb { 3  3  199 }
