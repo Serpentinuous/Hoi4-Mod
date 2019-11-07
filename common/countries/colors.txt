@@ -95,8 +95,8 @@ NPR = {
 	color_ui = rgb { 01 70 124 }
 }
 PAN = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 152 130 191 }
+	color = rgb { 42 205 223 }
+	color_ui = rgb { 42 205 223 }
 }
 PRU = {
 	color = rgb { 175 75 8 }
