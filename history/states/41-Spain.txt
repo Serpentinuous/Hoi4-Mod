@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = FSP
+		owner = NSP
 		victory_points = {
 			3938 30
 		}
@@ -24,7 +24,7 @@ state={
 			industrial_complex = 3
 			air_base = 6
 		}
-		add_core_of = FSP
+		add_core_of = NSP
 	}
 
 	provinces={
